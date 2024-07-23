@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @rdizor
-- 👀 I’m interested in using machine learning to actuate an exoskeleton.
-- 🌱 I’m currently working on my PhD in Intelligent Sys and Robotics at the University of West Florida.
-- 💞️ I’m looking to further my understanding of both supervised and unsupervised ML.
+- 👀 I am using AI and ML to control an exoskeleton to assist individuals with a neuromuscular weakness.
+- 🌱 I’m currently working on my PhD in Intelligent Systems and Robotics at the University of West Florida.
 - 📫 How to reach me here is straight forward, but I am proverbally swamped while slowly making progress on my dissertation.
 
 <!---
